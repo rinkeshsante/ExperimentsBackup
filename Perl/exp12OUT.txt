@@ -1,0 +1,27 @@
+enter your name :
+harry
+welcome harry
+
+ mark , 30  ,37
+282
+ array :282 329 9292
+282 329 9292 38
+282 329 9292
+ram : 4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+enter the number :
+-9
+negative
+9
+Enter two sides :5
+7
+
+***Area is 35Press any key to continue . . .
