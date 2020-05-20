@@ -1,0 +1,6 @@
+works on model view template
+
+model ->classe
+view -> mapping
+template -> html pages
+
